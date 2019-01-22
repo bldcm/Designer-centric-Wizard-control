@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProjectWizardDemo", "CodeProjectWizardDemo.csproj", "{94955608-38E0-43BE-AE73-0C16012E7445}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {56DAD8E4-F299-4DA5-84CE-49F5B98D4DF4}
+		SccProjectUniqueName1 = CodeProjectWizardDemo.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{94955608-38E0-43BE-AE73-0C16012E7445}.Debug.ActiveCfg = Debug|.NET
+		{94955608-38E0-43BE-AE73-0C16012E7445}.Debug.Build.0 = Debug|.NET
+		{94955608-38E0-43BE-AE73-0C16012E7445}.Release.ActiveCfg = Release|.NET
+		{94955608-38E0-43BE-AE73-0C16012E7445}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
